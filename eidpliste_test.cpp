@@ -43,7 +43,7 @@
 //     cout << "Ist:  ";
 //     a.print(false);
 //     cout << "Ende des Tests der Aufgabe d)" << endl <<  endl;
-
+//test
 //     cout << "Test der Aufgabe e)" << endl;
 //     a.clear();
 //     a.append(1);
